@@ -1,0 +1,7 @@
+{
+    "username": "<sauce labs username>",
+    "accessKey": "<sauce labs access key>",
+    "build": "appium-build-S050M",
+    "name": "<your test name>",
+    "deviceOrientation": "PORTRAIT"
+}

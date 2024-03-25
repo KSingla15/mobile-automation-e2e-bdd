@@ -1,0 +1,10 @@
+[
+  {
+    "mode" : "local",
+    "url": "http://127.0.0.1:4723"
+  },
+  {
+    "mode" : "Saucelabs",
+    "url": "https://ondemand.eu-central-1.saucelabs.com:443/wd/hub"
+  }
+]

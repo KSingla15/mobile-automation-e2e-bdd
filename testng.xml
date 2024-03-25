@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Suite">
+    <parameter name="maxRetryCount" value="1" />
+    <parameter name="platformName" value="IOS" />
+    <listeners>
+        <listener class-name="transformers.AnnotationTransformer"/>
+        <listener class-name="listeners.SuiteListener"/>
+    </listeners>
+    <test name="Sample Test">
+        <classes>
+            <class name="runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,6 @@
+{
+  "app": "/src/test/resources/apps/ios/iOS-Real-Device-MyRNDemoApp.1.3.0-162.ipa",
+  "bundleId": "com.saucelabs.mydemoapp.rn",
+  "deviceName": "iPhone 13 Pro",
+  "platformVersion": "15.5"
+}
