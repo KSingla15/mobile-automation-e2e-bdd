@@ -1,5 +1,5 @@
 {
-  "app": "/Users/kamal_singla/Documents/mobile-automation-e2e/src/test/resources/apps/android/Android-MyDemoAppRN.1.3.0.build-244.apk",
+  "app": "/src/test/resources/apps/android/Android-MyDemoAppRN.1.3.0.build-244.apk",
   "appPackage": "com.saucelabs.mydemoapp.rn",
   "appActivity": "com.saucelabs.mydemoapp.rn.MainActivity",
   "udid": "a4bf6de8"
